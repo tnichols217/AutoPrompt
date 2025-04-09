@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+.env
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# Cache
+*.cache/
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*~
+.DS_Store
+/.venv/
+/volume_cache/
+
+# Direnv
+
+.direnv
+result
+
+# Ruff
+
+.ruff_cache
+
+# Data
+
+data/
